@@ -1,0 +1,10 @@
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\DataBaseFirest2.exe.config
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\DataBaseFirest2.exe
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\DataBaseFirest2.pdb
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\EntityFramework.dll
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\EntityFramework.xml
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\obj\Debug\DataBaseFirest2.csprojResolveAssemblyReference.cache
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\obj\Debug\DataBaseFirest2.exe
+C:\Users\Teather\Desktop\Хорошо\IntroEntityFramework\DataBaseFirest2\DataBaseFirest2\obj\Debug\DataBaseFirest2.pdb
